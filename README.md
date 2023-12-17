@@ -3,5 +3,4 @@ Developed an advanced machine learning model utilizing a Wasserstein Generative 
 Leveraged the comprehensive CelebA dataset, consisting of over 200,000 celebrity images, for training the model to ensure high-quality and diverse facial feature synthesis.
 Fine-tuned the WGAN architecture to optimize the balance between generator and discriminator, resulting in enhanced image quality and stability during training.
 Implemented data preprocessing and augmentation techniques to improve model robustness and to handle a wide range of facial attributes and variations.
-Conducted thorough performance evaluations, achieving remarkable fidelity and diversity in generated faces, demonstrating the model's potential for applications in digital media and entertainment.
-Utilized Python and TensorFlow for model development, and employed rigorous testing methods to ensure the model's reliability and efficiency.
+Utilized Python and Pytorch for model development, and employed rigorous testing methods to ensure the model's reliability and efficiency.
